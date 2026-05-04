@@ -7,3 +7,6 @@ Capable of:
 - Transitioning Messages
 - History
 - Clearing History
+
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
